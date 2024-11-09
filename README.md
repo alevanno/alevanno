@@ -1,4 +1,4 @@
-# Welcome! Benvenuti!
+# Welcome! Benvenuti! Bienvenidos!
 - 👋 Hi, I’m @alevanno
 - 👀 I’m interested in data of all kinds, with a soft spot for geospatial applications
 - 📍 I'm working in a map company (see the leitmotif?)
